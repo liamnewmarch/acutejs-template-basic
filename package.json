@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/liamnewmarch/acutejs-template-basic/issues"
   },
@@ -21,14 +21,14 @@
     "start": "concurrently npm:build:watch npm:serve"
   },
   "dependencies": {
-    "@acutejs/core": "^0.1.0",
-    "@acutejs/plugin-lit-html": "0.0.1",
+    "@acutejs/core": "^0.2.1",
+    "@acutejs/plugin-lit-html": "^0.2.0",
     "@acutejs/plugin-redux": "0.0.1",
     "concurrently": "^4.1.0",
     "http-server": "^0.11.1",
     "lit-html": "^1.0.0",
     "redux": "^4.0.1",
-    "rollup": "^1.6.0",
+    "rollup": "^1.8.0",
     "rollup-plugin-node-resolve": "^4.0.1"
   },
   "devDependencies": {}

@@ -27,3 +27,7 @@ Create a deployment ready build in the `./public/` directory by running the npm 
 ```shell
 npm run build
 ```
+
+## Other samples
+
+* @acute/sample-todo – [GitHub](https://github.com/liamnewmarch/acutejs-sample-todo) | [demo](https://acutejs-sample-todo.firebaseapp.com)
